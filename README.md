@@ -48,9 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need further assistance, feel free to reach out to us:
 
-- **Project Maintainers:**
-- Livia Cardaccia ([liviacardaccia99@gmail.com](mailto:liviacardaccia99@gmail.com
-- Matteo Sartini ([matteo.sartini26@gmail.com](mailto:matteo.sartini26@gmail.com))
+- **Project Maintainers:** Livia Cardaccia ([liviacardaccia99@gmail.com](mailto:liviacardaccia99@gmail.com)) & Matteo Sartini ([matteo.sartini26@gmail.com](mailto:matteo.sartini26@gmail.com))
 - **GitHub Issues:** [Postcards Issues](https://github.com/yourusername/postcards/issues)
 
 Thank you for using Postcards! We hope you enjoy connecting with others through our platform.
